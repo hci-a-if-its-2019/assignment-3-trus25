@@ -121,7 +121,7 @@
  - **Resolution**: I will do as the participant 1 said, because his suggestion is good.
  
 #### OBSERVATION 2 Login Page
-![Prototype Screen 2](Src/LoginPage.jpg)
+![Prototype Screen 2](Src/LoginPage.JPG)
 
  - **Reference**: 
    - Participant 1, 14-16
@@ -132,7 +132,7 @@
  - **Resolution**: -
  
 #### OBSERVATION 3 Faculty Menu
-![Prototype Screen 3](Src/MainPage-Logged-Menu.jpg)
+![Prototype Screen 3](Src/MainPage-Logged-Menu.JPG)
 
  - **Reference**:  
    - Participant 1, 18-19
@@ -143,7 +143,7 @@
  - **Resolution**: -
  
  #### OBSERVATION 4 My Course
-![Prototype Screen 3](Src/MainPage-Logged-Course.jpg)
+![Prototype Screen 3](Src/MainPage-Logged-Course.JPG)
 
  - **Reference**:  
    - Participant 1, 20-30
