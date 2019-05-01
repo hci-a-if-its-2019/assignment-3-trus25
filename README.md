@@ -110,10 +110,11 @@
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
-![Prototype Screen 1](Src/MainPage)
+![Prototype Screen 1](Src/MainPage.jpg)
 
- - **Reference**: - Participant 1, line 10-12
-                  - Participant 2, line 8-9
+ - **Reference**: 
+   - Participant 1, line 10-12
+   - Participant 2, line 8-9
  - **Feedback**: - Positive feedback: 
  - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
  - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
