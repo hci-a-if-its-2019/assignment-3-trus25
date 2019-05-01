@@ -89,16 +89,16 @@
 8.	**Participant**	:Aku agak lupa tampilan ShareITS, tapi kok mirip ya?
 9.	**Me**	:Ohh emg mirip ini, aku ubahnya cuma beberapa tampilan dan menu yang gaperlu.
 10.	**Participant**	:Oh gituu, trus aku harus ngapain nih?
-11.	**Me**	:Coba sekarang login dulu?
+11.	**Me**	:Coba sekarang login dulu.
 12.	**Participant**	:Ini prototype kan? berarti gaperlu akun ya?
-13.	**Me**: Iya bener
-14.	**Participant**: udah nih, abis itu ngapain lagi?
+13.	**Me**: Iya betul.
+14.	**Participant**: Udah nih, abis itu ngapain lagi?
 15.	**Me**: Coba cari fakultas kamu.
 16.	**Participant**: udah, tapi kok gabisa di klik ya?
 17.	**Me**: Iya, untuk sekarang blom bisa di klik, masih prototype ini soalnya.
 18.	**Me**: Sekarang coba cari mata kuliah yang lagi kamu ikuti.
 19.	**Participant**: Itu di tengah udah ada.
-20.	**Participant**: Seingetku bukannya ada dibawah deh matakuliahnya?
+20.	**Participant**: Eh, seingetku bukannya ada dibawah ya matakuliahnya?
 21.	**Me**: Iya aku ubah biar langsung keliatan gitu, gaperlu nge scroll ke bawah lagi. Gimana menurutmu?
 22.	**Participant**: Bagus kok, jadi lebih gampang nyari nya. Soalnya waktu kuis pake ShareITS kan ga sengaja ke close tuh tabnya, terus aku bingung nyari matakuliahnya dimana, jadinya ngetik linknya deh.
 23.	**Me**: hahaha kasian amat harus ngetik, linknya kan lumayan panjang tuh.
@@ -109,36 +109,49 @@
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
-#### OBSERVATION 1
+#### OBSERVATION 1 Main Page
 ![Prototype Screen 1](Src/MainPage.jpg)
 
  - **Reference**: 
-   - Participant 1, line 10-12
-   - Participant 2, line 8-9
- - **Feedback**: - Positive feedback: 
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+   - Participant 1, line 10-12)
+   - Participant 2, line 8-9)
+ - **Feedback**: Mostly positive. But, participant 1 said that its better to remove the quote box and the guide book box, because it doesnt seem usefull. And he said that its better to make the recent activity and online user replace it.(Participant 1, line 11).
+ - **Incidence**: -
+ - **Reason**: -
+ - **Resolution**: I will do as the participant 1 said, because his suggestion is good.
  
-#### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+#### OBSERVATION 2 Login Page
+![Prototype Screen 2](Src/LoginPage/jpg)
 
  - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+   - Participant 1, 14-16
+   - Participant 2, 11-13
+ - **Feedback**: Positive
+ - **Incidence**: Participant 1 was not able to input his username on the text field.(Participant 1, line 15)
+ - **Reason**: Because it is still a prototype, the interactions are limited.
+ - **Resolution**: -
  
-#### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+#### OBSERVATION 3 Faculty Menu
+![Prototype Screen 3](Src/MainPage-Logged-Menu)
 
  - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
+   - Participant 1, 18-19
+   - Participant 2, 15-17
+ - **Feedback**: -
+ - **Incidence**: Participant 2 was not able to click faculty. (Participant 2, line 16.
+ - **Reason**: Because i limit most of the feature to keep it simple and still able to cover and fix most of the problems.
+ - **Resolution**: -
  
- ... and so on ...
+ #### OBSERVATION 4 My Course
+![Prototype Screen 3](Src/MainPage-Logged-Course)
+
+ - **Reference**:  
+   - Participant 1, 20-30
+   - Participant 2, 18-26
+ - **Feedback**: Positive, because the menus can be seen easily.
+ - **Incidence**: -
+ - **Reason**: -
+ - **Resolution**: -
  
  ---
 
