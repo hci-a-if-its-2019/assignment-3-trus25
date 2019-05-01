@@ -27,49 +27,94 @@
 > The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+- The user is male 21 years old
+- He is a student of Civil Engineering ITS
+- It is his second time using ShareITS, including when he was the participant for contextual iquiry and analysis.
+
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+- The user is male 21 years old
+- He is a student of Naval Architecture ITS
+- He has used ShareITS before.
 
-### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
+
+### 2. Evaluation Script 
+1.Login into the website
+2.Finding the user's department
+3.Finding the list of courses in the user's account
 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+1.	**Me**	: Hai, sibuk ga?
+2.	**Participant**	: Hai, ada apa?
+3.	**Me** : Kamu inget kan website ShareITS yang waktu itu aku suruh kamu coba? kali ini aku udah buat prototype web itu, bisa tolong coba lagi ga? 
+4.	**Participant** :Ohh bisa kok.
+5.	**Me**	:Sebelumnya, udah pernah buka ShareITS?
+6.	**Participant** :Baru waktu kamu suruh aja sih.
+7.	**Me**	:Ohh yasudah, kalau begitu langsung liat aja protoypenya ya.
+8.	**Participant**	:Ok.
+9.	**Me**	: Nih, gimana Menurut kamu?
+10.	**Participant**	: Nah, ini lebih keliatan Menu"nya, jadi lebih enak diliat juga tampilannya.
+11.	**Participant** : Tapi menurutku mending yang tuntunan belajar sama buku panduannya ilangin aja deh ga terlalu berguna keliatannya, sama biar recent activity sama online usernya langsung keliatan diatas. Terus buku panduannya taruh di download aja tuh.
+12.	**Me**  : Bener juga kamu ya, makasih masukannya. 
+13.	**Participant**: Iya samasama, terus aku ngapain lagi nih?
+14.	**Me**	:Coba kamu login dulu.
+15.	**Participant**	:Loginnya gimana ini gabisa ngetik usernamenya?
+16.	**Me**	:Ohiya, untuk sementara langsung klik aja tombol" loginnya soalnya ini cuma prototype.
+17.	**Participant**	:Ohh gitu, trus apalagi yang harus dicoba?
+18.	**Me**: Coba cari fakultas kamu.
+19.	**Participant**: Gampang itu mah ada di menu atas
+20.	**Me**	: Oke, coba sekarang buka matakuliah yang sedang diikuti
+21.	**Participant**	: Udah nih, lebih mudah ketemunya soalnya gaperlu scroll lagi haha.
+22.	**Me**	:Haha iya kemaren kan kamu bingung tuh nyari"nya.
+23.	**Participant**: Tapi kalau gasalah ada menu" yang bentuknya icon gitu deh halaman utamanya, itu kamu hapus?
+24.	**Me**	:Iya, soalnya kamu bilang kemaren garapih tampilannya.
+25.	**Me**  :Tampilannya jadi lebih bagus gaada menu itu apa gimana?
+26.	**Participant**	:Menurutku udah bagus sih diapus, lagian menu departmentnya ada diatas tuh.
+27.	**Me**	:Nah itu makanya haha.
+28.	**Participant**	: Ada yang perlu dicoba lagi ga?
+29.	**Me**  :Udah selesai kok. Makasih ya udah mau bantu.
+30.	**Participant**	:Oke, sama-sama
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+
+1.	**Me**	:Siang bro, lagi sibuk ga?
+2.	**Participant**	:Ngga, lagi gabut malah ini, ada apa?
+3.	**Me**	:Kamu pernah pake ShareITS ga?
+4.	**Participant**	:Oh pernah sekali waktu kuis matkul pengayaan.
+5.	**Me**	:Ohh bagus deh kalo udah pernah, jadi aku buat prototype web ShareITS nih, bisa minta waktumu buat nyoba ga?
+6.	**Participant**	: Bisa kok, mana coba liat.
+7.	**Me**	:Nih, gimana menurutmu tampilannya?
+8.	**Participant**	:Aku agak lupa tampilan ShareITS, tapi kok mirip ya?
+9.	**Me**	:Ohh emg mirip ini, aku ubahnya cuma beberapa tampilan dan menu yang gaperlu.
+10.	**Participant**	:Oh gituu, trus aku harus ngapain nih?
+11.	**Me**	:Coba sekarang login dulu?
+12.	**Participant**	:Ini prototype kan? berarti gaperlu akun ya?
+13.	**Me**: Iya bener
+14.	**Participant**: udah nih, abis itu ngapain lagi?
+15.	**Me**: Coba cari fakultas kamu.
+16.	**Participant**: udah, tapi kok gabisa di klik ya?
+17.	**Me**: Iya, untuk sekarang blom bisa di klik, masih prototype ini soalnya.
+18.	**Me**: Sekarang coba cari mata kuliah yang lagi kamu ikuti.
+19.	**Participant**: Itu di tengah udah ada.
+20.	**Participant**: Seingetku bukannya ada dibawah deh matakuliahnya?
+21.	**Me**: Iya aku ubah biar langsung keliatan gitu, gaperlu nge scroll ke bawah lagi. Gimana menurutmu?
+22.	**Participant**: Bagus kok, jadi lebih gampang nyari nya. Soalnya waktu kuis pake ShareITS kan ga sengaja ke close tuh tabnya, terus aku bingung nyari matakuliahnya dimana, jadinya ngetik linknya deh.
+23.	**Me**: hahaha kasian amat harus ngetik, linknya kan lumayan panjang tuh.
+24.	**Participant**: haha, ada lagi ga nih?
+25.	**Me**: Udah segitu dulu, makasih ya bantuannya.
+26.	**Participant**: ya, sama-sama
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+![Prototype Screen 1](Src/MainPage)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
+ - **Reference**: - Participant 1, line 10-12
+                  - Participant 2, line 8-9
+ - **Feedback**: - Positive feedback: 
  - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
  - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
