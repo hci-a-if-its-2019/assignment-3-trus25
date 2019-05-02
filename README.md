@@ -142,8 +142,6 @@ Here's the video of ShareITS website prototype.<br />
 ![Sketch of Refined Prototype](Src/Sketch.jpg)
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
 Usability evaluation helps the designer to gather the flaws of the design that can only be found from whole different prespective. Having an IT background make the designer halt the designer to make an improvement. By asking novice users to try the design, the designer may found the flaws that seemed okay for advanced users but is a no-go for novice users. And so, the design can be improved after that.
 
 ### High-Fidelity Interactive-Prototype
