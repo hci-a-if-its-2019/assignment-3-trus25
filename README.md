@@ -1,6 +1,6 @@
 # Usability Evaluation and Prototyping (again)
 ## Operating the Prototype
-Here's the video of ShareITS website prototype.
+Here's the video of ShareITS website prototype.<br />
 [![HCI - ShareITS Website Prototype](http://img.youtube.com/vi/0sJXVzQTVv8/0.jpg)](http://www.youtube.com/watch?v=0sJXVzQTVv8 "HCI - ShareITS Website Prototype")
 
 ---
