@@ -139,16 +139,13 @@ Here's the video of ShareITS website prototype.<br />
 > based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
 
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
-
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+![Sketch of Refined Prototype](Src/Sketch.jpg)
 
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
 > and how it is reflected in your design.
+Usability evaluation helps the designer to gather the flaws of the design that can only be found from whole different prespective. Having an IT background make the designer halt the designer to make an improvement. By asking novice users to try the design, the designer may found the flaws that seemed okay for advanced users but is a no-go for novice users. And so, the design can be improved after that.
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+[Link of modified prototype](https://invis.io/RXRTJWB64PB)
+
