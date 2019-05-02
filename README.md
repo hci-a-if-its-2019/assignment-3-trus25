@@ -1,6 +1,8 @@
 # Usability Evaluation and Prototyping (again)
 ## Operating the Prototype
-[![Prototype Video](https://youtu.be/0sJXVzQTVv8)
+![Prototype Video](https://youtu.be/0sJXVzQTVv8)
+
+https://youtu.be/0sJXVzQTVv8
 
 here is the link to the prototype video
 ---
