@@ -6,18 +6,7 @@ Here's the video of ShareITS website prototype.<br />
 ---
 
 ## Part A: Usability Evaluation
-> In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
-> Invite the participant from your previous CI to test the prototype.
-> You also need to invite one more novice participant.
-> As with the CI, you might need to videotape your sessions.
-> You can benefit from the videotape while writing your `Recording Transcript` later.
-
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
-
 #### a. Description of Participant 1
 - The user is male 21 years old
 - He is a student of Civil Engineering ITS
@@ -70,7 +59,6 @@ Here's the video of ShareITS website prototype.<br />
 30.	**Participant**	:Oke, sama-sama
 
 #### b. Transcript with Participant 2
-
 1.	**Me**	:Siang bro, lagi sibuk ga?
 2.	**Participant**	:Ngga, lagi gabut malah ini, ada apa?
 3.	**Me**	:Kamu pernah pake ShareITS ga?
@@ -99,7 +87,6 @@ Here's the video of ShareITS website prototype.<br />
 26.	**Participant**: ya, sama-sama
 
 ### 4. Feedback and Incidence Analysis
-> Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1 Main Page
 ![Prototype Screen 1](Src/MainPage.jpg)
